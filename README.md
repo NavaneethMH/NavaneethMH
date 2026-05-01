@@ -21,7 +21,6 @@
 ## 🌟 About Me
  
 <div align="center">
-<!-- 
   HOW TO GENERATE THIS IMAGE:
   1. Go to https://carbon.now.sh
   2. Paste the code below into the editor
@@ -43,7 +42,7 @@ class Navi:
     motto      = "Break things ethically. Build things that matter."
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome 🚀")
--->
+    
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">

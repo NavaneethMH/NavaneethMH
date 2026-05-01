@@ -19,28 +19,31 @@
 ---
 
 ## 🌟 About Me
-
-```python
+ 
+<div align="center">
+<!-- 
+  HOW TO GENERATE THIS IMAGE:
+  1. Go to https://carbon.now.sh
+  2. Paste the code below into the editor
+  3. Theme: One Dark  |  Font: Fira Code  |  Background: #0d1117  |  Window: Sharp
+  4. Export as PNG → rename to "about-me.png"
+  5. Upload to your NavaneethMH/NavaneethMH repo
+  6. Replace the img src below with: ./about-me.png
 class Navi:
     name       = "Navaneeth M H"
+    alias      = "Navi"
     college    = "K S Institute of Technology, Bangalore (VTU)"
     degree     = "B.E. in Computer Science & Engineering"
-    Admitted   = "2024"
-    
-    passions   = ["Cybersecurity 🔐", "Information Security🔎", 
+    year       = "4th Semester | Graduating 2026"
+    passions   = ["Cybersecurity 🔐", "Ethical Hacking 💀",
                   "Cloud Security ☁️", "Open Source 🌍"]
-    
-    currently  = ["Building RANEEV — Emergency Response App 🚨",
+    currently  = ["Building RANEEV — AI Emergency Response App 🚨",
+                  "Contributing to OWASP & FOSSASIA (GSoC 2026) 🏆",
                   "Sharpening Python & Flutter skills 🐍📱"]
-    
     motto      = "Break things ethically. Build things that matter."
-
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome 🚀")
-```
-
----
-
+-->
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">

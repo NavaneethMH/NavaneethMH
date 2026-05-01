@@ -19,30 +19,36 @@
 ---
 
 ## 🌟 About Me
- 
-<div align="center">
-  HOW TO GENERATE THIS IMAGE:
-  1. Go to https://carbon.now.sh
-  2. Paste the code below into the editor
-  3. Theme: One Dark  |  Font: Fira Code  |  Background: #0d1117  |  Window: Sharp
-  4. Export as PNG → rename to "about-me.png"
-  5. Upload to your NavaneethMH/NavaneethMH repo
-  6. Replace the img src below with: ./about-me.png
+
+<table>
+<tr>
+<td>
+
+```
 class Navi:
     name       = "Navaneeth M H"
-    alias      = "Navi"
     college    = "K S Institute of Technology, Bangalore (VTU)"
     degree     = "B.E. in Computer Science & Engineering"
-    year       = "4th Semester | Graduating 2026"
-    passions   = ["Cybersecurity 🔐", "Ethical Hacking 💀",
+    admission   = "2024"
+    
+    passions   = ["Cybersecurity 🔐", "Information Security 🔎", 
                   "Cloud Security ☁️", "Open Source 🌍"]
+    
     currently  = ["Building RANEEV — AI Emergency Response App 🚨",
-                  "Contributing to OWASP & FOSSASIA (GSoC 2026) 🏆",
                   "Sharpening Python & Flutter skills 🐍📱"]
+    
     motto      = "Break things ethically. Build things that matter."
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome 🚀")
-    
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -103,8 +109,7 @@ class Navi:
 ---
 
 ## 🏆 Certifications & Achievements
-
-- 🔐 **Infosec** — Certified Information Systems Security Professional (CISSP) Specialization
+- 🔐 **Infosec** — Certified Information Systems Security Professional (CISSP) Speecialization
 - 🛡️ **ISC2 CC** — Certified in Cybersecurity (Security Principles)
 - ☁️ **Google Cloud** — Fundamentals
 - 🔵 **IBM** — Cybersecurity & Python Courses

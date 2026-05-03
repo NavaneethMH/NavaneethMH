@@ -35,7 +35,7 @@ class Navi:
                   "Cloud Security ☁️", "Open Source 🌍"]
     
     currently  = ["Building RANEEV — AI Emergency Response App 🚨",
-                  "Sharpening Python & Flutter skills 🐍📱"]
+                  "Sharpening Python & React skills 🐍📱"]
     
     motto      = "Break things ethically. Build things that matter."
 

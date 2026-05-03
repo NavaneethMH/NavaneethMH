@@ -85,7 +85,7 @@ class Navi:
 
 | 🚨 Project | 📝 Description | 🔧 Stack |
 |:---:|:---:|:---:|
-| [**RANEEV**](https://github.com/NavaneethMH/RANEEV) | Real-time AI-powered Emergency Response System with SOS triggering, AI responder matching & trust scoring | Python · FastAPI · Flutter · MongoDB |
+| [**RANEEV**](https://github.com/NavaneethMH/RANEEV) | Real-time AI-powered Emergency Response System with SOS triggering, AI responder matching & trust scoring | Python · FastAPI · React · PostgreSQL |
 | [**OS Dev**](https://github.com/NavaneethMH/osdev) | Elementary OS Kernel build from scratch — bootloader in Assembly, kernel in C | Assembly · C · QEMU |
 | [**Weather App**](https://github.com/NavaneethMH/weather-app) | API-integrated weather app built for skills improvement | CSS · JS · API |
 

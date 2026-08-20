@@ -19,6 +19,89 @@ I am **Navaneeth M H**, a Computer Science and Engineering student at **KSIT, Ba
 
 My long-term goal is to become a security-minded engineer who can design, build, and evaluate reliable software. I am always interested in learning from experienced engineers, collaborating on open-source projects, and exploring the intersection of **cybersecurity, cloud infrastructure, artificial intelligence, and developer tooling**.
 
+## `navaneeth@github:~$` Terminal
+
+> A small command-line simulator for exploring my profile. Select a command to reveal its output.
+
+<details>
+<summary><code>help</code> — show available commands</summary>
+
+<pre><code>navaneeth@github:~$ help
+
+Available commands:
+  about       Display a short introduction
+  skills      List my technical focus areas
+  projects    Show selected projects
+  security    Show my security interests
+  contact     Display ways to connect
+  clear       Close this panel and choose another command
+
+Tip: Click any command below to run it.</code></pre>
+</details>
+
+<details>
+<summary><code>about</code> — who is Navaneeth?</summary>
+
+<pre><code>navaneeth@github:~$ about
+
+Name:     Navaneeth M H
+Role:     Computer Science & Engineering student
+Campus:   KSIT, Bangalore
+Focus:    Cybersecurity, secure software, systems, and AI
+Status:   Learning by building practical projects</code></pre>
+</details>
+
+<details>
+<summary><code>skills</code> — inspect the technical toolkit</summary>
+
+<pre><code>navaneeth@github:~$ skills
+
+[ programming ] Python  JavaScript  TypeScript  C  C++  PHP
+[ web         ] React  FastAPI  REST APIs  HTML  CSS
+[ ai          ] LangChain  LangGraph  Ollama  Google Gemini
+[ systems     ] Linux  Assembly  QEMU  OS fundamentals
+[ security    ] OWASP  Web security  Networking  Cloud security
+[ workflow    ] Git  GitHub  Docker  PostgreSQL  BigQuery</code></pre>
+</details>
+
+<details>
+<summary><code>projects</code> — inspect selected builds</summary>
+
+<pre><code>navaneeth@github:~$ projects
+
+[01] LangChainProject  -> local AI calculator agent with tool calling
+[02] osdev             -> elementary operating-system kernel
+[03] RANEEV            -> real-time emergency-response system
+[04] CymbalMart        -> AI-assisted party-planning application
+
+Run: open https://github.com/NavaneethMH/&lt;repository&gt;</code></pre>
+</details>
+
+<details>
+<summary><code>security</code> — show the current security focus</summary>
+
+<pre><code>navaneeth@github:~$ security
+
+&gt; Studying ethical hacking and application security
+&gt; Exploring secure web development and API design
+&gt; Strengthening Linux, networking, and cloud foundations
+&gt; Learning to build systems with security in mind
+
+mission_status: keep_learning_and_keep_building</code></pre>
+</details>
+
+<details>
+<summary><code>contact</code> — open a connection</summary>
+
+<pre><code>navaneeth@github:~$ contact
+
+GitHub:   https://github.com/NavaneethMH
+LinkedIn:  https://www.linkedin.com/in/navaneeth-m-h-4472222b3
+Email:    navaneethmh211@gmail.com
+
+connection_status: accepting_collaborations</code></pre>
+</details>
+
 ## Current Focus
 
 <table>

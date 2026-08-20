@@ -2,21 +2,23 @@
 
 # Hi, I'm Navaneeth M H
 
-### Cybersecurity Enthusiast · Computer Science & Engineering Student · Developer
+### Cybersecurity Enthusiast · Security-Minded Developer · Computer Science & Engineering Student
 
 <p>
   <a href="https://github.com/NavaneethMH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/navaneeth-m-h-4472222b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:navaneethmh211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=NavaneethMH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 </div>
 
 ## About Me
 
-I am a **Computer Science and Engineering student at KSIT, Bangalore**, with a strong interest in **cybersecurity, ethical hacking, cloud security, and web security**. I enjoy learning by building practical projects—from real-time emergency-response systems and AI assistants to operating-system fundamentals and API-based applications.
+I am a **Computer Science and Engineering student at KSIT, Bangalore**, focused on **cybersecurity, ethical hacking, cloud security, and secure software development**. I learn by building practical projects across Python, web technologies, AI agents, systems programming, and APIs while strengthening my foundations in networking, Linux, and application security.
 
-I am currently strengthening my foundations in secure software development, networking, cloud platforms, and modern web technologies. I welcome opportunities to learn from the community, collaborate on meaningful projects, and contribute to open source.
+I am actively seeking opportunities to learn from experienced engineers, collaborate on meaningful open-source projects, and grow into a security-minded developer who can design, build, and evaluate reliable software.
 
 ## What I Am Exploring
 
@@ -52,6 +54,8 @@ I am currently strengthening my foundations in secure software development, netw
 My goal is to become a security-minded engineer who can design, build, and evaluate reliable software. I am especially interested in projects at the intersection of **cybersecurity, cloud infrastructure, artificial intelligence, and developer tooling**.
 
 ## GitHub Activity
+
+The statistics below update automatically from my GitHub activity, while the profile-view counter above tracks visits to this profile.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NavaneethMH&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Navaneeth's GitHub statistics">

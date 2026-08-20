@@ -1,136 +1,71 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=200&section=header&text=Hey%20there!%20I'm%20Navaneeth%20👋&fontSize=45&fontColor=fff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Builder%20%7C%20Open%20Source%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+# Hi, I'm Navaneeth M H
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+%26+Ethical+Hacking;☁️+Cloud+Security+Explorer;🐍+Python+Developer;📱+Flutter+App+Builder;🚀+GSoC+2026+Aspirant" alt="Typing SVG" />
-</a>
+### Cybersecurity Enthusiast · Computer Science & Engineering Student · Developer
 
-<br/>
-
-<!-- Profile Views + GitHub Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=NavaneethMH&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/NavaneethMH?label=Followers&style=for-the-badge&color=FFD93D&labelColor=1a1a2e)](https://github.com/NavaneethMH)
+<p>
+  <a href="https://github.com/NavaneethMH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/navaneeth-m-h-4472222b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:navaneethmh211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
----
+## About Me
 
-## 🌟 About Me
+I am a **Computer Science and Engineering student at KSIT, Bangalore**, with a strong interest in **cybersecurity, ethical hacking, cloud security, and web security**. I enjoy learning by building practical projects—from real-time emergency-response systems and AI assistants to operating-system fundamentals and API-based applications.
 
-<table>
-<tr>
-<td>
+I am currently strengthening my foundations in secure software development, networking, cloud platforms, and modern web technologies. I welcome opportunities to learn from the community, collaborate on meaningful projects, and contribute to open source.
 
-```
-class Navi:
-    name       = "Navaneeth M H"
-    college    = "K S Institute of Technology, Bangalore (VTU)"
-    degree     = "B.E. in Computer Science & Engineering"
-    admission   = "2024"
-    
-    passions   = ["Cybersecurity 🔐", "Information Security 🔎", 
-                  "Cloud Security ☁️", "Open Source 🌍"]
-    
-    currently  = ["Building RANEEV — AI Emergency Response App 🚨",
-                  "Sharpening Python & React skills 🐍📱"]
-    
-    motto      = "Break things ethically. Build things that matter."
+## What I Am Exploring
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome 🚀")
-```
+- Cybersecurity, ethical hacking, and application security
+- Secure web development and API design
+- Cloud security and Google Cloud technologies
+- Python development and agentic AI applications
+- Operating-system and low-level programming concepts
 
-</td>
-</tr>
-</table>
+## Technical Toolkit
 
----
+| Area | Technologies and Tools |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, C, C++, C#, PHP, HTML, CSS, Assembly |
+| **AI and Development** | LangChain, LangGraph, Ollama, Google Gemini, React, FastAPI |
+| **Data and Platforms** | PostgreSQL, MySQL, Google BigQuery, Docker |
+| **Security and Systems** | Kali Linux, OWASP principles, Linux, QEMU, networking fundamentals |
+| **Workflow** | Git, GitHub, REST APIs, experimentation-driven learning |
 
-## 🛠️ Tech Stack & Tools
+## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [**CymbalMart Shopping Planner**](https://github.com/NavaneethMH/CymbalMart-Shopping-Planner) | An AI-assisted party-planning application that creates personalized event plans, shopping lists, recipes, timelines, and voice-assisted guidance. | TypeScript, HTML, CSS, Gemini |
+| [**LangChain Project**](https://github.com/NavaneethMH/LangChainProject) | A beginner-friendly AI calculator agent demonstrating tool calling with LangChain, LangGraph, Ollama, and a local Qwen 2.5 model. | Python, LangChain, LangGraph, Ollama |
+| [**RANEEV**](https://github.com/NavaneethMH/RANEEV) | A real-time emergency-response system focused on coordinating assistance during urgent situations. | Python, JavaScript |
+| [**OSDev**](https://github.com/NavaneethMH/osdev) | An elementary operating-system kernel project exploring bootloaders, C, Assembly, and low-level system concepts. | C, Assembly, Linker Script |
+| [**AgriNova Prototype**](https://github.com/NavaneethMH/AgriNova-prototype) | A prototype exploring a technology-driven solution for agricultural use cases. | HTML, CSS, JavaScript, TypeScript, Python |
+| [**BigQuery Event Talks App**](https://github.com/NavaneethMH/bigquery-event-talks-app) | A learning project built while exploring application development with Google BigQuery MCP. | JavaScript, Python, HTML, CSS |
+
+## Goals
+
+My goal is to become a security-minded engineer who can design, build, and evaluate reliable software. I am especially interested in projects at the intersection of **cybersecurity, cloud infrastructure, artificial intelligence, and developer tooling**.
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavaneethMH&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Navaneeth's GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaneethMH&layout=compact&hide_border=true&theme=transparent" height="165" alt="Navaneeth's most-used languages">
+</div>
+
+## Let's Connect
+
+I am always happy to connect with fellow developers, cybersecurity learners, mentors, and open-source contributors. Feel free to explore my repositories or reach out through [LinkedIn](https://www.linkedin.com/in/navaneeth-m-h-4472222b3) or [email](mailto:navaneethmh211@gmail.com).
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD93D)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Security & Cloud**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+> Keep learning. Keep building. Keep improving security.
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🚨 Project | 📝 Description | 🔧 Stack |
-|:---:|:---:|:---:|
-| [**RANEEV**](https://github.com/NavaneethMH/RANEEV) | Real-time AI-powered Emergency Response System with SOS triggering, AI responder matching & trust scoring | Python · FastAPI · React · PostgreSQL |
-| [**OS Dev**](https://github.com/NavaneethMH/osdev) | Elementary OS Kernel build from scratch — bootloader in Assembly, kernel in C | Assembly · C · QEMU |
-| [**Weather App**](https://github.com/NavaneethMH/weather-app) | API-integrated weather app built for skills improvement | CSS · JS · API |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NavaneethMH&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaneethMH&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD93D&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavaneethMH&theme=radical&hide_border=true&background=0d1117&stroke=FFD93D&ring=FF6B6B&fire=FFD93D&currStreakLabel=6BCB77" width="480"/>
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-- 🔐 **Infosec** — Certified Information Systems Security Professional (CISSP) Speecialization
-- 🛡️ **ISC2 CC** — Certified in Cybersecurity (Security Principles)
-- ☁️ **Google Cloud** — Fundamentals
-- 🔵 **IBM** — Cybersecurity & Python Courses
-- 📡 **Cisco NetAcademy** — Networking Basics
-- 🐬 **Oracle & MySQL** — Database Foundations
-- 🚀 **GSoC 2026 Aspirant** — OWASP Foundation & FOSSASIA
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-m-h-4472222b3)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavaneethMH)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneethmh211@gmail.com)
-
-<br/>
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=120&section=footer" width="100%"/>
-
-</div>
+<!-- This profile README is displayed on github.com/NavaneethMH. -->
